@@ -1,7 +1,5 @@
 
-  # Site para Professora de Yoga
-
-  This is a code bundle for Site para Professora de Yoga. The original project is available at https://www.figma.com/design/tuDmDSNgbHEflXkQuTs804/Site-para-Professora-de-Yoga.
+  # Luah Yoga
 
   ## Running the code
 

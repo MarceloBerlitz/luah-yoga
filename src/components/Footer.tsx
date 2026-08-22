@@ -19,11 +19,11 @@ export function Footer() {
             <h3 className="text-[#fffaf4] mb-4">Contato</h3>
             <div className="space-y-3 text-[#e9d8c7]">
               <a
-                href="mailto:contato@anasilva.yoga"
+                href="mailto:contato@luanemonteiro.yoga"
                 className="flex items-center gap-2 hover:text-[#d9a57a] transition-colors"
               >
                 <Mail className="w-5 h-5" />
-                contato@anasilva.yoga
+                contato@luanemonteiro.yoga
               </a>
               <a
                 href="tel:+5511999999999"
@@ -66,7 +66,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-[#5b3522] mt-8 pt-8 text-center text-[#d3b79e]">
-          <p>&copy; {new Date().getFullYear()} Ana Silva Yoga. Todos os direitos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Luah Yoga. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>

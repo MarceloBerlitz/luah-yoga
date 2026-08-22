@@ -4,7 +4,7 @@ export function GalleryPage() {
   const photos = [
     {
       src: 'https://images.unsplash.com/photo-1667890786022-83bca6c4f4c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b2dhJTIwaW5zdHJ1Y3RvciUyMHdvbWFufGVufDF8fHx8MTc2NDY5NTc0MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-      alt: 'Professora Ana Silva',
+      alt: 'Professora Luane Monteiro',
       span: 'row-span-2'
     },
     {
@@ -76,7 +76,7 @@ export function GalleryPage() {
             Acompanhe dicas diárias, inspirações e novidades sobre o mundo do yoga
           </p>
           <a
-            href="https://instagram.com/seu-usuario"
+            href="https://www.instagram.com/luahyoga/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-white text-emerald-600 px-8 py-3 rounded-full hover:bg-emerald-50 transition-colors"
@@ -93,7 +93,7 @@ export function GalleryPage() {
                 clipRule="evenodd"
               />
             </svg>
-            @anasilva.yoga
+            @luahyoga
           </a>
         </div>
       </section>

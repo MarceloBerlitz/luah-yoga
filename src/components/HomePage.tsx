@@ -37,15 +37,15 @@ export function HomePage() {
           <div>
             <ImageWithFallback
               src="https://images.unsplash.com/photo-1667890786022-83bca6c4f4c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b2dhJTIwaW5zdHJ1Y3RvciUyMHdvbWFufGVufDF8fHx8MTc2NDY5NTc0MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-              alt="Ana Silva - Professora de Yoga"
+              alt="Luane Monteiro - Professora de Yoga"
               className="w-full h-[500px] object-cover rounded-lg shadow-lg"
             />
           </div>
           
           <div>
-            <h2 className="text-emerald-600 mb-4">Conheça Ana Silva</h2>
+            <h2 className="text-emerald-600 mb-4">Conheça Luane Monteiro</h2>
             <p className="text-gray-600 mb-6">
-              Olá! Sou Ana Silva, professora certificada de Hatha Yoga com mais de 10 anos de experiência 
+              Olá! Sou Luane Monteiro, professora certificada de Hatha Yoga com mais de 10 anos de experiência 
               ajudando pessoas a encontrarem paz, força e flexibilidade através da prática do yoga.
             </p>
             <p className="text-gray-600 mb-8">
