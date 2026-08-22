@@ -19,11 +19,11 @@ export function Footer() {
             <h3 className="text-[#fffaf4] mb-4">Contato</h3>
             <div className="space-y-3 text-[#e9d8c7]">
               <a
-                href="mailto:contato@luanemonteiro.yoga"
+                href="mailto:luah.yoga@gmail.com"
                 className="flex items-center gap-2 hover:text-[#d9a57a] transition-colors"
               >
                 <Mail className="w-5 h-5" />
-                contato@luanemonteiro.yoga
+                luah.yoga@gmail.com
               </a>
               <a
                 href="tel:+5511999999999"

@@ -207,7 +207,7 @@ export function ServicesPage() {
                 Clique no botão abaixo para ver os horários disponíveis e agendar sua aula:
               </p>
               <a
-                href="https://calendly.com/seu-usuario"
+                href="https://calendly.com/luah-yoga"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-emerald-600 text-white px-8 py-3 rounded-full hover:bg-emerald-700 transition-colors"
@@ -221,7 +221,7 @@ export function ServicesPage() {
               {/* Calendly Embed - Replace with your actual Calendly username */}
               <div className="mt-6 h-[700px] border border-gray-200 rounded-lg overflow-hidden">
                 <iframe
-                  src="https://calendly.com/seu-usuario"
+                  src="https://calendly.com/luah-yoga"
                   width="100%"
                   height="100%"
                   frameBorder="0"

@@ -126,7 +126,7 @@ export function HomePage() {
             Agende sua primeira aula experimental e descubra os benefícios do Hatha Yoga
           </p>
           <a
-            href="https://calendly.com/seu-usuario"
+            href="https://calendly.com/luah-yoga"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-white text-emerald-600 px-8 py-3 rounded-full hover:bg-emerald-50 transition-colors"
