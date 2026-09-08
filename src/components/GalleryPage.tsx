@@ -20,7 +20,7 @@ export function GalleryPage() {
     {
       src: 'assets/aula.jpg',
       alt: 'Aula em grupo',
-      span: 'col-span-2'
+      span: 'md:col-span-2'
     }
   ];
 
@@ -31,8 +31,7 @@ export function GalleryPage() {
         <div className="max-w-6xl mx-auto text-center">
           <h1 className="mb-4">Galeria de Fotos</h1>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Momentos especiais das nossas práticas, workshops e retiros de yoga.
-            Cada imagem conta uma história de conexão, crescimento e bem-estar.
+            Momentos especiais das práticas…
           </p>
         </div>
       </section>
