@@ -20,7 +20,7 @@ export function GalleryPage() {
     {
       src: 'assets/aula.jpg',
       alt: 'Aula em grupo',
-      span: 'md:col-span-2'
+      span: 'col-span-2'
     }
   ];
 
