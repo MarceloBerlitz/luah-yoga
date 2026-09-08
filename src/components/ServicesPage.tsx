@@ -108,16 +108,16 @@ export function ServicesPage() {
           </div>
 
           {/* Calendly Integration */}
-          <div className="bg-emerald-50 rounded-lg p-8 text-center">
+          <div className="bg-emerald-50 rounded-lg py-4 md:p-8 text-center">
             <h2 className="mb-4">Agende Sua Primeira Aula</h2>
             <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
               A primeira aula experimental é por minha conta! Escolha o melhor horário e
               venha conhecer a prática de Hatha Yoga.
             </p>
 
-            <div className="max-w-3xl mx-auto bg-white rounded-lg p-8 shadow-sm">
+            <div className="max-w-3xl mx-auto bg-white rounded-lg md:p-8 shadow-sm">
               {/* Calendly Embed - Replace with your actual Calendly username */}
-              <div className="h-[700px] border border-gray-200 rounded-lg overflow-hidden">
+              <div className="h-[600px] border border-gray-200 rounded-lg overflow-hidden">
                 <iframe
                   src="https://calendly.com/luah-yoga"
                   width="100%"
