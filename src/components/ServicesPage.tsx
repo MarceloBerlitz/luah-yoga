@@ -110,7 +110,7 @@ export function ServicesPage() {
           {/* Calendly Integration */}
           <div className="bg-emerald-50 rounded-lg py-4 md:p-8 text-center">
             <h2 className="mb-4">Agende Sua Primeira Aula</h2>
-            <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
+            <p className="text-gray-600 mb-8 px-4 max-w-2xl mx-auto">
               A primeira aula experimental é por minha conta! Escolha o melhor horário e
               venha conhecer a prática de Hatha Yoga.
             </p>
