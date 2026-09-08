@@ -32,8 +32,10 @@ export function Header({ currentPage, onNavigate }: HeaderProps) {
             onClick={() => handleNavigate('home')}
             className="flex items-center gap-2"
           >
-            <span className="text-emerald-600">🧘‍♀️</span>
-            <span className="text-gray-900">Luah Yoga</span>
+            {/* <span className="text-emerald-600">🧘‍♀️</span> */}
+            <span className="text-gray-900" style={{ fontFamily: 'MonteCarlo, cursive', fontSize: '2rem' }}>
+              Luah Yoga
+            </span>
           </button>
 
           {/* Desktop Navigation */}

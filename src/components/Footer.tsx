@@ -9,8 +9,7 @@ export function Footer() {
           <div>
             <h3 className="text-[#fffaf4] mb-4">Luah Yoga</h3>
             <p className="mb-4 text-[#e9d8c7]">
-              Professora certificada de Hatha Yoga, dedicada a guiar você em uma jornada 
-              de autodescoberta e bem-estar através da prática tradicional do yoga.
+              Professora certificada de Hatha Yoga, dedicada a guiar você em uma jornada de autoconhecimento e bem estar através de práticas tradicionais da yoga.
             </p>
           </div>
 
@@ -30,12 +29,8 @@ export function Footer() {
                 className="flex items-center gap-2 hover:text-[#d9a57a] transition-colors"
               >
                 <Phone className="w-5 h-5" />
-                (11) 99999-9999
+                (54) 9 9338-8361
               </a>
-              <div className="flex items-start gap-2 text-[#e9d8c7]">
-                <MapPin className="w-5 h-5 flex-shrink-0 mt-1" />
-                <span>Estúdio Zen Yoga<br />Rua das Flores, 123 - São Paulo, SP</span>
-              </div>
             </div>
           </div>
 
@@ -51,15 +46,6 @@ export function Footer() {
                 aria-label="Instagram"
               >
                 <Instagram className="w-5 h-5" />
-              </a>
-              <a
-                href="https://facebook.com/seu-usuario"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 bg-[#4a2917] rounded-full flex items-center justify-center hover:bg-[#8a4408] transition-colors"
-                aria-label="Facebook"
-              >
-                <Facebook className="w-5 h-5" />
               </a>
             </div>
           </div>

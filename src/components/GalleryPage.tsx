@@ -3,35 +3,25 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 export function GalleryPage() {
   const photos = [
     {
-      src: 'https://images.unsplash.com/photo-1667890786022-83bca6c4f4c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b2dhJTIwaW5zdHJ1Y3RvciUyMHdvbWFufGVufDF8fHx8MTc2NDY5NTc0MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      src: 'assets/lu.jpg',
       alt: 'Professora Luane Monteiro',
       span: 'row-span-2'
     },
     {
-      src: 'https://images.unsplash.com/photo-1604234452531-780b648eddcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoYXRoYSUyMHlvZ2ElMjBwb3NlfGVufDF8fHx8MTc2NDY5NTc0MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-      alt: 'Prática de Hatha Yoga',
+      src: 'assets/aula2.jpg',
+      alt: 'Aula em grupo',
       span: ''
     },
     {
-      src: 'https://images.unsplash.com/photo-1641391400871-3a6578a11d5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b2dhJTIwbWVkaXRhdGlvbiUyMHBlYWNlZnVsfGVufDF8fHx8MTc2NDY0NDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-      alt: 'Meditação',
+      src: 'assets/lu3.jpg',
+      alt: 'Professora Luane Monteiro',
       span: ''
     },
     {
-      src: 'https://images.unsplash.com/photo-1651077837628-52b3247550ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b2dhJTIwY2xhc3MlMjBzdHVkaW98ZW58MXx8fHwxNzY0NjMyMzQyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      src: 'assets/aula.jpg',
       alt: 'Aula em grupo',
       span: 'col-span-2'
-    },
-    {
-      src: 'https://images.unsplash.com/photo-1657203214371-39d4088f71a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b2dhJTIwbmF0dXJlJTIwb3V0ZG9vcnxlbnwxfHx8fDE3NjQ2OTU3NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-      alt: 'Yoga ao ar livre',
-      span: ''
-    },
-    {
-      src: 'https://images.unsplash.com/photo-1759951609645-00994c2f9fef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b2dhJTIwc3Vuc2V0JTIwcHJhY3RpY2V8ZW58MXx8fHwxNzY0Njk1NzQzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-      alt: 'Prática ao pôr do sol',
-      span: ''
-    },
+    }
   ];
 
   return (
@@ -41,7 +31,7 @@ export function GalleryPage() {
         <div className="max-w-6xl mx-auto text-center">
           <h1 className="mb-4">Galeria de Fotos</h1>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Momentos especiais das nossas práticas, workshops e retiros de yoga. 
+            Momentos especiais das nossas práticas, workshops e retiros de yoga.
             Cada imagem conta uma história de conexão, crescimento e bem-estar.
           </p>
         </div>
